@@ -1,0 +1,1 @@
+A simple proxy for google news rss feeds
